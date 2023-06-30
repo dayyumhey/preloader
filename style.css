@@ -38,11 +38,11 @@ body {
 }
 
 #svg {
-  height: 550px;
-  width: 250px;
-  stroke: #F3832A;
+  height: 150px;
+  width: 150px;
+  stroke: whitesmoke;
   fill-opacity: 0;
-  stroke-width: 5px;
+  stroke-width: 3px;
   stroke-dasharray:  4500;
   animation: draw 10s ease;
 }
@@ -62,7 +62,7 @@ body {
 }
 
 .logo-name {
-  color: #F3832A;
+  color:white;
   font-size: 20px;
   letter-spacing: 12px;
   text-transform: uppercase;
